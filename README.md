@@ -1,2 +1,9 @@
 # FR_Recog
-A test demo.
+A Fingerprint Recognition Test Demo.
+Based on:
+vlfeat
+
+Thanks:
+https://github.com/noureldien/FingerprintRecognition
+
+By:Jerry Kong
